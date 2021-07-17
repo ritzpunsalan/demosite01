@@ -1,0 +1,12 @@
+sourcelink:
+E:\Desktop\current projects\redoreact
+
+source link:
+    https://www.youtube.com/watch?v=NJWI1b1upps&list=PLDIXF8nb0VG1v4S-smVy7GV0MHsJ3PJiL&ab_channel=MahmoudShehata
+        the tutorial
+    https://reactjs.org/
+        the site link:
+    https://github.com/tonsky/FiraCode
+        for font codes. firacode
+
+        https://www.youtube.com/watch?v=gbvmfm2VNbA&ab_channel=Rosario%E2%80%A0Vampire%3ATheAnime

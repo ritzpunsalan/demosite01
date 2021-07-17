@@ -1,0 +1,9 @@
+here is are all the list of objectives needed to be done to learn fast with brute force. Learning fast with brute force may not be the best way to learn but it is the best way to get things done fast. Learning will be from all books, video tutorial, and web site source tutorials. all forms of learning will be meshed together. its fastest to learn this way. 
+
+agenda:
+    install and apply react
+
+
+
+video timer
+    #2- 10:17
