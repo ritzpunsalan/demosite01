@@ -1,0 +1,7 @@
+first 5 to install:
+    https://jumpgrowth.com/top-10-web-development-frameworks/
+
+npm i react
+npm install -g @angular/cli
+npm install jquery
+npm install vue

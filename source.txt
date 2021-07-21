@@ -1,6 +1,10 @@
 sourcelink:
 E:\Desktop\current projects\redoreact
 
+githubsite:
+https://ritzpunsalan.github.io/demosite01/
+https://ritzpunsalan.github.io/demosite01/index.html
+
 source link:
     https://www.youtube.com/watch?v=NJWI1b1upps&list=PLDIXF8nb0VG1v4S-smVy7GV0MHsJ3PJiL&ab_channel=MahmoudShehata
         the tutorial
