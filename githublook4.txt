@@ -1,0 +1,5 @@
+In github. what to look for:
+
+settings / Options / (scroll to "github Pages") / click on: " check it out here! " / source : branch: main ... /(root) --> save
+
+this is how to get the site running. everything else is what you create of it.
