@@ -2,5 +2,5 @@ here are all the commands for cmder
 
 git add .
 git status
-git commit -u "done and done"
+git commit -m "done and done"
 git push
