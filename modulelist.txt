@@ -1,7 +1,22 @@
-first 5 to install:
+frameworks list link:
     https://jumpgrowth.com/top-10-web-development-frameworks/
+
+first 5 to install:
 
 npm i react
 npm install -g @angular/cli
 npm install jquery
 npm install vue
+
+css framework links:
+https://www.lambdatest.com/blog/best-css-frameworks-2021/
+
+first 5 to install:
+
+npm install tailwindcss
+npm install bootstrap
+npm install bulma
+npm install materialize-css@next
+npm install tachyons@4.12.0
+npm install -g sass
+npm install purecss --save
