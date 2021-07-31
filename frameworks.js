@@ -1,8 +1,12 @@
-import Vue from "vue";
-import jQuery from "jquery";
-import React from "react";
-import { Component } from "@angular/core";
+// import Vue from "vue";
+// import jQuery from "jquery";
+// import React from "react";
+// import { Component } from "@angular/core";
 
+const vue = require("vue")
+const jquery = require("jquery")
+const react = require("react")
+const angular = require("angular/core")
 @Component({
   selector: 'hello-world',
   template: `
